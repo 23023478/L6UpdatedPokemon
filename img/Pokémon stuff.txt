@@ -1,0 +1,15 @@
+Pokémon stuff
+FIRE
+Charmander -168 https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_168-2x.png
+Charmeleon -169 https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_169-2x.png
+
+WATER
+Squirtle -170 https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_170-2x.png
+Wartortle 171 https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_171-2x.png
+
+PHYSIC
+Abra - 63  https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN63-2x.png
+Alakazam -201 https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_201-2x.png
+
+
+
